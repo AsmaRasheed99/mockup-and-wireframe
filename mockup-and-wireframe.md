@@ -1,6 +1,6 @@
 # wireframe and mockup
 ### This is a a wireframe and mockup for an E-learning website
-**Tools Used :
+** Tools Used :
 * Git
 * VSCode
 * Figma
