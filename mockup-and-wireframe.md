@@ -3,5 +3,5 @@
 ## Tools Used :
 * Git
 * VSCode
-* Figma 
+* Figma <br/>
 [wireframe and mockup](https://www.figma.com/file/4fX5oCOGU8sizPDsSuUU8I/Task2?t=vHtSzGmPs2cCCBf0-6)
